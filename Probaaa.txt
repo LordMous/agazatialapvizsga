@@ -1,0 +1,21 @@
+1:
+kerj be nevet eletkor es meg egyet es irasd ki hogy ki a fiatalabb/idosebb vagy egyenlo
+
+kerj be harom szamot es vizsgald meg hogy barmely ket szam összege egyenlo e a harmadik szammal
+
+kerjel be 2 szot es irasd ki hogy melyik a hosszabb és melyik a rovidebb vagy egyforma hosszu e
+
+2:
+biztos hogy lista es fuggveny
+fuggyveny visszatérése az osztoinak a szama 
+
+prim szamok
+
+fuggyveny az adott szam 2 szamjegy e vagy sem
+
+3:
+txt beolvasas pontos vagy szokoz elvalasztas, szamok 
+fajlba kell irni valami feltetel szerint pl marka alapjan vagy ilyesmi
+atlag nagysag ket tizedesjegyre
+osztaly 
+vagy terjen vissza vagy kicsi nagy vagy regi film uj film ilyenek
